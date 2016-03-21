@@ -1,0 +1,23 @@
+.footer {
+  max-width: 1008px;
+  margin: 0 auto;
+  min-height: 80px;
+  clear: both;
+  font: 18px / 80px $main-font;
+  position: relative;
+  &-copyright {
+    color: #466972;
+    float: left;
+  }
+  &-go-top-btn {
+    text-transform: uppercase;
+    display: block;
+    float: right;
+    color: #466972;
+  }
+
+}
+
+.block {
+  float: right;
+}
